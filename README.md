@@ -1,3 +1,2 @@
 # My project
-Login feature
-Login feature
+Feature Registration
